@@ -1,5 +1,5 @@
 function Home(){
     return(<>
-    <h1>Hello</h1></>)
+    <h1>Arun</h1></>)
 }
 export default Home
